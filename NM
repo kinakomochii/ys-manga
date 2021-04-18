@@ -1,0 +1,41 @@
+{
+  "title": "Nibiiro Musica -Violinist to Manager-",
+  "description": "This is volume 5 from the Nibiiro Musica series. The gorgeous and heart-pounding love story of the little devil violinist Noel, who has matured a little bit, and the cool and capable manager Donald.",
+  "artist": "Tokoro Kemeko",
+  "author": "Tokoro Kemeko",
+  "cover": "https://img.chil-chil.net/goods_img/XL/00061126_XL.jpg",
+  "chapters": {
+    "1": {
+      "title": "1st movement",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/RSbk2mu/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "2nd movement",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/mNf4vag/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "3rd movement",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/bRxzBHr/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "4th movement",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/HNtsUgD/"
+      },
+      "last_updated": "1618187627"
+    }    
+  }
+}
