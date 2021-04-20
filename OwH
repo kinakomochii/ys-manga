@@ -9,7 +9,7 @@
       "title": "Charm 1",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/kl6EX5w/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/7grL80v/"
       },
       "last_updated": "1616368746"
     },
@@ -17,7 +17,7 @@
       "title": "Charm 2",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/Xq2GeMq/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/aLvdQr0/"
       },
       "last_updated": "1616368746"
     },
@@ -25,7 +25,7 @@
       "title": "Charm 3",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/4OTmT41/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/wppoFhS/"
       },
       "last_updated": "1616368746"
     },
@@ -33,7 +33,7 @@
       "title": "Charm 4",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/lJeqaG5/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/Of2QjDq/"
       },
       "last_updated": "1618187627"
     },
@@ -41,7 +41,7 @@
       "title": "Charm 5",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/cEUb2Md/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/XTVNhVQ/"
       },
       "last_updated": "1616368746"
     }    
