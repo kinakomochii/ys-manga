@@ -1,0 +1,49 @@
+{
+  "title": "Ookami-kun wa Hanasanai",
+  "description": "The world is filled with animals that can evolve into beastmen. Shirou, a young and earnest wolf who is always mistaken for a showy person because of his flashy looks, has fallen for an attractive rabbit named Usami. Even though Usami is very cautious of carnivores, he would put his guard down only in the presence of Shirou, who went from a pervert into a life saver in Usami's eyes. But what will happen to Usami on his first heat!?!",
+  "artist": "Sakura Rico",
+  "author": "Sakura Rico",
+  "cover": "https://64.media.tumblr.com/2d44760e7a8e3edf31bbe43b2f36ad34/edde1976619c6584-0d/s2048x3072/dbe56ca3cb8d52686605753ad61467becbe4e803.jpg",
+  "chapters": {
+    "1": {
+      "title": "Charm 1",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/kl6EX5w/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Charm 2",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/Xq2GeMq/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Charm 3",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/4OTmT41/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Charm 4",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/lJeqaG5/"
+      },
+      "last_updated": "1618187627"
+    },
+    "5": {
+      "title": "Charm 5",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/cEUb2Md/"
+      },
+      "last_updated": "1616368746"
+    }    
+  }
+}
