@@ -1,0 +1,65 @@
+{
+  "title": "Sunshine Lovesick",
+  "description": "The dreamer boy, Taiyo, looks up to the COOL and WAVY dancer, Kunishige Takato! a.k.a. God! When he moved to the capital, he used this chance to join the same dance studio as Takato. The real side of the cold-looking Takato is actually very frank? Moreover, he misunderstood Taiyo's gesture and went for a kiss..?!",
+  "artist": "Haida Nanako",
+  "author": "Haida Nanako",
+  "cover": "https://66.media.tumblr.com/e85f8bc5d8ea980eef437b2fd98ccd46/a1c6804049809785-f9/s1280x1920/b474eb8112427c2083d83a33d8ef54bb3f699314.jpg",
+  "chapters": {
+    "1": {
+      "title": "step 1",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/QO8maZ0/"
+      },
+      "last_updated": "1616368746"      
+    },   
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/7hzQfmt/"
+      },
+      "last_updated": "1616368746"      
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/sRmxFMS/"
+      },
+      "last_updated": "1616368746"      
+    }, 
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/JeVEEGJ/"
+      },
+      "last_updated": "1616368746"      
+    },   
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/NoULFUt/"
+      },
+      "last_updated": "1616368746"           
+    },   
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/WTARyIu/"
+      },
+      "last_updated": "1616368746"           
+    },
+    "6.5": {
+      "title": "Extra",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/WTARyIu/"
+      },
+      "last_updated": "1616368746"           
+    }     
+  }
+}
