@@ -14,50 +14,50 @@
       "last_updated": "1616368746"      
     },   
     "2": {
-      "title": "2",
+      "title": "step 2",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/7hzQfmt/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/EJaWfOq/"
       },
       "last_updated": "1616368746"      
     },
     "3": {
-      "title": "3",
+      "title": "step 3",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/sRmxFMS/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/5JawlR1/"
       },
       "last_updated": "1616368746"      
     }, 
     "4": {
-      "title": "4",
+      "title": "step 4",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/JeVEEGJ/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/dM0P5OG/"
       },
       "last_updated": "1616368746"      
     },   
     "5": {
-      "title": "5",
+      "title": "step 5",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/NoULFUt/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/mUJZuvh/"
       },
       "last_updated": "1616368746"           
     },   
     "6": {
-      "title": "6",
+      "title": "step 6",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/WTARyIu/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/9V1NZ7l/"
       },
       "last_updated": "1616368746"           
     },
     "6.5": {
-      "title": "Extra",
+      "title": "Extra - chapter 2.5",
       "volume": "1",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/WTARyIu/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/qjVEmrF/"
       },
       "last_updated": "1616368746"           
     }     
