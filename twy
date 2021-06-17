@@ -51,7 +51,15 @@
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/H3BrslD/"
       },
-      "last_updated": "1620685509"           
+      "last_updated": "1620685509"  
+     },       
+     "6.5": {
+      "title": "after story",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/FNrKLMA/"
+      },
+      "last_updated": "1623908825"        
     }      
   }
 }
