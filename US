@@ -43,7 +43,15 @@
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/sWIHcvw/"
       },
-      "last_updated": "1619043765"     
+      "last_updated": "1619043765"
+     },
+    "5.5": {
+      "title": "Extra",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/hfGyc3u/"
+      },
+      "last_updated": "1619043765"        
     }    
   }
 }
