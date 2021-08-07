@@ -1,0 +1,17 @@
+{
+  "title": "Oyasumi, Itoshii Kotori-sama",
+  "description": "A love that is nurtured in a world where winged people and humans coexist.",
+  "artist": "Sakura Rico",
+  "author": "Sakura Rico",
+  "cover": "https://i.imgur.com/2mcAcXH.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/4f6S8iH/"
+      },
+      "last_updated": "1629435604"
+    }    
+  }
+}
