@@ -12,6 +12,14 @@
         "Yaoi Sekai": "/proxy/api/imgur/chapter/WodxlK9/"
       },
       "last_updated": "1625596194"
+            },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/B5UyBut/"
+      },
+      "last_updated": "1629496947"  
     }    
   }
 }
