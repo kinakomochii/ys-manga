@@ -6,12 +6,19 @@
   "cover": "https://xfs-000.animemark.net/pictures/W600/aa0/aa030e472087576227ae4f44ac76e6da231d59fc_844_1200_724784.jpeg?acc=NUVWb68OjokZZjmQO3wztA&exp=1626104252",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "The silver-colored road",
       "volume": "1",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/De1VGbl/"
       },
       "last_updated": "1626039486"
+    "2": {
+      "title": "Early spring",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/GBa9q3k/"
+      },
+      "last_updated": "1629496947"    
     }    
   }
 }
