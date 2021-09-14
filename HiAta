@@ -30,7 +30,7 @@
       "last_updated": "1616368746"      
     }, 
     "8": {
-      "title": "8",
+      "title": "Chapter 8",
       "volume": "2",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/JeVEEGJ/"
@@ -46,12 +46,20 @@
       "last_updated": "1616368746"           
     },   
     "9": {
-      "title": "9",
+      "title": "Chapter 9",
       "volume": "3",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/WTARyIu/"
       },
-      "last_updated": "1616368746"           
+      "last_updated": "1616368746" 
+    },   
+    "10": {
+      "title": "Chapter 10",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/0fGvKA5/"
+      },
+      "last_updated": "1631584896"   
     }      
   }
 }
