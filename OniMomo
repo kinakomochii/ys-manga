@@ -1,6 +1,6 @@
 {
   "title": "Kaerenu Oni tono Momobiyori",
-  "description": "Otaku salaryman, Momose, who loves fantasy and parallel worlds, comes upon a book that he used to read a lot in the past: “The Complete Collection of Summoning Magic”. Feeling nostalgic, his middle-schooler heart re-ignites, so he decides to try and chant once again the summoning spell to call The Servant of Fate... But suddenly, in doing so, a demon named Keiha comes out of his closet?!A slightly naughty BL daily-life story about a demon tied by an invisible force X a salaryman!!",
+  "description": "Otaku salaryman, Momose, who loves fantasy and parallel worlds, comes upon a book that he used to read a lot in the past: “The Complete Collection of Summoning Magic”. Feeling nostalgic, his middle-schooler heart re-ignites, so he decides to try and chant once again the summoning spell to call The Servant of Fate... But suddenly, in doing so, a demon named Keiha comes out of his closet?! A slightly naughty BL daily-life story about a demon tied by an invisible force X a salaryman!",
   "artist": "Hareya Umako",
   "author": "Hareya Umako",
   "cover": "https://img.chil-chil.net/goods_img/XL/00111317_XL.jpg",
@@ -12,6 +12,22 @@
         "Yaoi Sekai": "/proxy/api/imgur/chapter/0WxJAnK/" 
       },
       "last_updated": "1623013245"
-    }    
+    }, 
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/nT7GrGP/" 
+      },
+      "last_updated": "	1632875737"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/QMuvdaQ/" 
+      },
+      "last_updated": "	1632875737"
+    }     
   }
 }
