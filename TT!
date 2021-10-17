@@ -6,7 +6,7 @@
   "cover": "https://img.chil-chil.net/goods_img/XL/00064237_XL.jpg",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "Tsukaretemasen Tsukaretemasu! 1",
       "volume": "1",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/IuLc8Fo/"
@@ -14,12 +14,20 @@
       "last_updated": "1620685509"
       },
     "2": {
-      "title": "Chapter 2",
+      "title": "Tsukaretemasen Tsukaretemasu! 2",
       "volume": "1",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/KJckD5T/"
       },
-      "last_updated": "1629496947"  
+      "last_updated": "1629496947" 
+      },
+    "3": {
+      "title": "Tsukaretemasen Tsukaretemasu! 3",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/Jg0mIQM/"
+      },
+      "last_updated": "	1634440183"    
     }    
   }
 }
