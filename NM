@@ -1,13 +1,13 @@
 {
-  "title": "Nibiiro Musica -Violinist to Manager-",
-  "description": "This is volume 5 from the Nibiiro Musica series. The gorgeous and heart-pounding love story of the little devil violinist Noel, who has matured a little bit, and the cool and capable manager Donald.",
+  "title": "Nibiiro Musica",
+  "description": "Ten years have passed since Takuma lost touch with his good friend Yuki, who left for Italy to become a Cellist. Now working as a home aid, Takuma is shocked to find his next patient is none other than Yuki himself. After an accident, Yuki is now semi-blind. His eyes are trapped behind bandages until the time he undergoes surgery. Due to mixed feelings about their reunion, Takuma keeps his identity a secret as he tends to the injured Yuki. But how will Takuma react when he learns that his friend was in love with someone when they were kids… and still holds a torch for that person even now? (Vol. 5 tells the story of violinist Noel and his manager Donald.)",
   "artist": "Tokoro Kemeko",
   "author": "Tokoro Kemeko",
-  "cover": "https://img.chil-chil.net/goods_img/XL/00061126_XL.jpg",
+  "cover": "https://img.chil-chil.net/goods_img/XL/00110622_XL.jpg",
   "chapters": {
     "1": {
       "title": "1st movement",
-      "volume": "1",
+      "volume": "5",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/RSbk2mu/"
       },
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "2nd movement",
-      "volume": "1",
+      "volume": "5",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/mNf4vag/"
       },
@@ -23,7 +23,7 @@
     },
     "3": {
       "title": "3rd movement",
-      "volume": "1",
+      "volume": "5",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/bRxzBHr/"
       },
@@ -31,7 +31,7 @@
     },
     "4": {
       "title": "4th movement",
-      "volume": "1",
+      "volume": "5",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/HNtsUgD/"
       },
@@ -39,11 +39,19 @@
     },
     "4.5": {
       "title": "The violinist, the manager and their love story",
-      "volume": "1",
+      "volume": "5",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/SYeUwNY/"
       },
-      "last_updated": "1624066708"      
+      "last_updated": "1624066708"  
+      },
+    "1": {
+      "title": "Surprise Vacation!",
+      "volume": "6",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/dDFe8A9/"
+      },
+      "last_updated": "1637175055"  
     }    
   }
 }
