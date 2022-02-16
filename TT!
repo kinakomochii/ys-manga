@@ -28,6 +28,22 @@
         "Yaoi Sekai": "/proxy/api/imgur/chapter/Jg0mIQM/"
       },
       "last_updated": "1634440183"    
+        },
+    "4": {
+      "title": "Tsukaretemasen Tsukaretemasu! 4",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/quIvq9f/"
+      },
+      "last_updated": "1629496947" 
+      },
+    "5": {
+      "title": "Tsukaretemasen Tsukaretemasu! 5",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/W9PXmcj/"
+      },
+      "last_updated": "1634440183"    
     }    
   }
 }
