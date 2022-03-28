@@ -342,12 +342,20 @@
       "last_updated": "1616368746"
 }, 
  "35.6": {
-      "title": "Twitter comic",
+      "title": "Twitter comics batch 1",
       "volume": "2",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/o6inSuh/"
       },
-      "last_updated": "1626376326"          
+      "last_updated": "1626376326"
+}, 
+ "35.7": {
+      "title": "Twitter comics batch 2",
+      "volume": "2",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/H4h5eGw/"
+      },
+      "last_updated": "1648490580"      
     }     
   }
 }
