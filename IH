@@ -6,7 +6,7 @@
   "cover": "https://xfs-000.animemark.net/pictures/W600/aa0/aa030e472087576227ae4f44ac76e6da231d59fc_844_1200_724784.jpeg?acc=NUVWb68OjokZZjmQO3wztA&exp=1626104252",
   "chapters": {
     "1": {
-      "title": "The silver-colored road",
+      "title": "The Silver-Colored Road",
       "volume": "1",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/De1VGbl/"
@@ -14,7 +14,7 @@
       "last_updated": "1626039486"
       },
     "2": {
-      "title": "Early spring",
+      "title": "Early Spring",
       "volume": "1",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/ewvZxj3/"
@@ -28,6 +28,30 @@
         "Yaoi Sekai": "/proxy/api/imgur/chapter/NQcWRmf/"
       },
       "last_updated": "1637562635"
+      },
+    "4": {
+      "title": "Mild Late Autumn Weather",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/H7krX5h/"
+      },
+      "last_updated": "1648706178"
+      },
+    "5": {
+      "title": "The Truth of the Sacred Lily",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/mSHnOkd/"
+      },
+      "last_updated": "1648706178"
+      },
+    "5.5": {
+      "title": "My Lovely Person",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/VVX3XPH/"
+      },
+      "last_updated": "1648706178"      
     }    
   }
 }
