@@ -45,13 +45,21 @@
       },
       "last_updated": "1624066708"  
       },
-    "15": {
+    "1": {
       "title": "Surprise Vacation!",
       "volume": "6",
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/dDFe8A9/"
       },
-      "last_updated": "1637175055"  
-    }    
+      "last_updated": "1637175055"
+      },
+    "2": {
+      "title": "Christmas Vacation!",
+      "volume": "6",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/LNsyL0I/"
+      },
+      "last_updated": "1649283470"
+    }      
   }
 }
