@@ -43,7 +43,15 @@
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/W9PXmcj/"
       },
-      "last_updated": "1645046971"    
+      "last_updated": "1645046971"  
+         },
+    "6": {
+      "title": "Ue kara approach 1",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/HZEMJAq/"
+      },
+      "last_updated": "1652490044"
     }    
   }
 }
