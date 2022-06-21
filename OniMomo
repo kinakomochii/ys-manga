@@ -36,6 +36,22 @@
         "Yaoi Sekai": "/proxy/api/imgur/chapter/kD5qpSl/" 
       },
       "last_updated": "1653936489" 
+   },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/NuIJE1c/" 
+      },
+      "last_updated": "1655850780"
+   },
+    "5.5": {
+      "title": "Extra",
+      "volume": "1",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/7C6EfFs/" 
+      },
+      "last_updated": "1655850780" 
     }     
   }
 }
