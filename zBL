@@ -355,7 +355,47 @@
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/H4h5eGw/"
       },
+      "last_updated": "1648490580"
+}, 
+ "36": {
+      "title": "VS Paranormal Phenomena",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/Vy2zh9U/"
+      },
+      "last_updated": "1648490580"  
+ },     
+ "37": {
+      "title": "VS Paranormal Phenomena - Extra",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/kjd5iWo/"
+      },
+      "last_updated": "1648490580"  
+  },     
+ "38": {
+      "title": "VS High School Life 5-7",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/uqVF2C1/"
+      },
+      "last_updated": "1648490580" 
+   },     
+ "39": {
+      "title": "VS Cat",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/ZnhcBfr/"
+      },
       "last_updated": "1648490580"      
-    }     
+     },  
+  "40": {
+      "title": "VS High School Life 8",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/lECvRq4/"
+      },
+      "last_updated": "1648490580"      
+    }  
   }
 }
