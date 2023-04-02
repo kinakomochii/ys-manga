@@ -401,9 +401,17 @@
       "title": "VS Sports Festival",
       "volume": "3",
       "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/CQSZuUU/"
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/3L31Xuc/"
       },
       "last_updated": "1680325200"   
+           },  
+  "42": {
+      "title": "VS Sports Festival - Extra",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/WovTva5/"
+      },
+      "last_updated": "1680411600"     
     }  
   }
 }
