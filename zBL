@@ -196,15 +196,7 @@
         "Yaoi Sekai": "/proxy/api/imgur/chapter/KyoAm1c/"
       },
       "last_updated": "1616368746"      
-    }, 
- "21.5": {
-      "title": "Extra: Halloween",
-      "volume": "1",
-      "groups": {
-        "Yaoi Sekai": "/proxy/api/imgur/chapter/HX0YTXr/"
-      },
-      "last_updated": "1616368746"      
-    }, 
+    },  
  "20": {
       "title": "VS locker",
       "volume": "2",
@@ -411,7 +403,55 @@
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/WovTva5/"
       },
-      "last_updated": "1680411600"     
+      "last_updated": "1680411600"    
+      },
+ "43": {
+      "title": "VS Back Alley",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/NmhMKNo/"
+      },
+      "last_updated": "1685677695"    
+      },
+ "44": {
+      "title": "VS Weakness",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/DANXFzE/"
+      },
+      "last_updated": "1685677695"    
+      },  
+ "45": {
+      "title": "VS Fudanshi - Extra 2",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/uD555hC/"
+      },
+      "last_updated": "1685677695"    
+      },      
+  "46": {
+      "title": "VS Halloween",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/HX0YTXr/"
+      },
+      "last_updated": "1616368746"      
+    },
+  "47": {
+      "title": "VS Whisky Bonbon",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/DRedty3/"
+      },
+      "last_updated": "1685677695"    
+      },
+  "48": {
+      "title": "VS Bickering Couples",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/E3mD5oD/"
+      },
+      "last_updated": "1685677695"    
     }  
   }
 }
