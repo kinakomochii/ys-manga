@@ -451,7 +451,31 @@
       "groups": {
         "Yaoi Sekai": "/proxy/api/imgur/chapter/E3mD5oD/"
       },
-      "last_updated": "1685677695"    
+      "last_updated": "1685677695"   
+      },      
+  "49": {
+      "title": "VS Disguise",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/d1B4x8A/"
+      },
+      "last_updated": "1691959211"      
+    },
+  "50": {
+      "title": "VS Valentine's - Extra",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/y0pO2q6/"
+      },
+      "last_updated": "1691959211"    
+      },
+  "51": {
+      "title": "VS Kakei and Yamazaki - Extra Arc",
+      "volume": "3",
+      "groups": {
+        "Yaoi Sekai": "/proxy/api/imgur/chapter/g84zbkH/"
+      },
+      "last_updated": "1691959211"
     }  
   }
 }
